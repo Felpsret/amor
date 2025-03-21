@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>E agora?</h1>
+    <form method="GET" Action="teste.jsp"
+        Nome:  <input type="texte" name="nome"><br> 
+        o que você vai ser minha: 
+        <input type="radio" name="o que ela vai ser para mim" value="namorada">Namorada 
+        <input type="radio" name="o que ela vai ser para mim" value="esposa">Esposa
+        <input type="radio" name="o que ela vai ser para mim" value="amiga">Amiga 
+        <input type="radio" name="o que ela vai ser para mim" value="melhor amiga">Melhor amiga 
+
+
+    </form>
+
+
+</body>
